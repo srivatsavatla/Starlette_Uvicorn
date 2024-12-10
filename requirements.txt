@@ -1,2 +1,5 @@
-starlette
-uvicorn
+fastapi
+pymongo 
+uvicorn 
+starlette 
+pydantic
